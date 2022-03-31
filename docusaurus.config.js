@@ -61,6 +61,10 @@ const config = {
             label: 'Repos',
             position: 'right',
           },
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
         ],
       },
       footer: {
@@ -103,6 +107,10 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      i18n: {
+        defaultLocale: 'en',
+        locales: ['en', 'vi'],
       },
     }),
 };
