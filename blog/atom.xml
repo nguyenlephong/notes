@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nguyenlephong.github.io/notes/blog</id>
-    <title>My Notes Blog</title>
+    <title>Nguyễn Lê Phong - Notes Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nguyenlephong.github.io/notes/blog"/>
-    <subtitle>My Notes Blog</subtitle>
+    <subtitle>Nguyễn Lê Phong - Notes Blog</subtitle>
     <icon>https://nguyenlephong.github.io/notes/img/dom.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
