@@ -15,9 +15,10 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
+            target={"_blank"}
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            to="https://nguyenlephong.github.io/">
+            View My Profile
           </Link>
         </div>
       </div>
