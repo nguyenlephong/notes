@@ -9,7 +9,7 @@ const config = {
   title: 'My Notes',
   tagline: 'Nguyễn Lê Phong',
   url: 'https://nguyenlephong.github.io',
-  baseUrl: '/',
+  baseUrl: '/notes/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
