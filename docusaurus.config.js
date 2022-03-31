@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/notes/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/dom.png',
   organizationName: 'nguyenlephong', // Usually your GitHub org/user name.
   projectName: 'notes', // Usually your repo name.
 
@@ -43,22 +43,22 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Notes',
+        title: 'Nguyễn Lê Phong - Notes',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Nguyễn Lê Phong',
+          src: 'img/dom.png',
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Notes',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/nguyenlephong/notes',
-            label: 'GitHub',
+            href: 'https://github.com/nguyenlephong',
+            label: 'Repos',
             position: 'right',
           },
         ],
@@ -93,7 +93,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/nguyenlephong/notes',
+                href: 'https://github.com/nguyenlephong',
               },
             ],
           },
