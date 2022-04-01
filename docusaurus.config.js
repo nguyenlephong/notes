@@ -38,7 +38,15 @@ const config = {
       }),
     ],
   ],
-
+  plugins: [
+    [
+      '@docusaurus/plugin-google-analytics',
+      {
+        trackingID: 'G-K8SCKY9VHB',
+        anonymizeIP: true,
+      },
+    ],
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
