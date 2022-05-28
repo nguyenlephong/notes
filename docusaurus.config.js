@@ -25,6 +25,8 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
@@ -50,6 +52,18 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      announcementBar: {
+        id: 'document_under_construction',
+        content: 'DOCUMENTS ARE UNDER CONSTRUCTION...',
+        backgroundColor: '#d0a85f',
+        textColor: '#1f0edb',
+        isCloseable: false,
+      },
+      // algolia: {
+      //   appId: 'AUJYIQ70HN',
+      //   apiKey: '25243dbf9049cf036e87f64b361bd2b9',
+      //   indexName: 'phong-nguyen-notes',
+      // },
       navbar: {
         title: 'Nguyễn Lê Phong - Notes',
         logo: {
