@@ -4,6 +4,11 @@ sidebar_position: 0
 
 # ReactJS Project Structure
 
+:::danger DOCUMENTS ARE UNDER CONSTRUCTION...
+These documents are highly unstructured and aren't really well-formed. For any further clarification, or (understandable) ranting, please contact us at nguyenlephong1997@gmail.com.
+:::
+
+
 ## Overview {#overview}
 
 A typical structure project looks like the below:
