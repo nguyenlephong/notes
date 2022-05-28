@@ -57,6 +57,9 @@ const config = {
           src: 'img/dom.png',
         },
         items: [
+          // {
+          //   type: 'docsVersionDropdown', position: 'left'
+          // },
           {
             type: 'doc',
             docId: 'intro',
@@ -64,6 +67,7 @@ const config = {
             label: 'Notes',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+
           {
             href: 'https://github.com/nguyenlephong',
             label: 'Repos',
@@ -73,6 +77,7 @@ const config = {
             type: 'localeDropdown',
             position: 'right',
           },
+
         ],
       },
       footer: {
