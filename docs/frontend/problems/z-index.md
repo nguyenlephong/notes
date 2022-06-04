@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12
+sidebar_position: 11
 sidebar_label: Z-Index
 sidebar_class_name: green
 title: Z-Index in applycation - Nguyễn Lê Phong

@@ -10,6 +10,8 @@ keywords: [JS Framework, UI Framework, Frontend Developer, Nguyễn Lê Phong]
 
 # Framework
 
+![Framework banner](../../static/frontends/front-end-frameworks.png)
+
 ## Javascript/Frontend Framework
 
 ### 1. React
