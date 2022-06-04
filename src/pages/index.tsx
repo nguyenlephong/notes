@@ -7,9 +7,8 @@ import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Head from '@docusaurus/Head';
 
-
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
@@ -29,12 +28,12 @@ function HomepageHeader() {
 }
 
 export default function Home(): JSX.Element {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <React.Fragment>
       <Head>
         {/**<!--Global site tag (gtag.js) - Google Analytics -->*/}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-K8SCKY9VHB"/>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-K8SCKY9VHB" />
         <script>
           {`window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}

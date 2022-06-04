@@ -52,6 +52,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [{name: 'Nguyễn Lê Phong - Notes', content: 'Developer, IT, Jobs, Experience'}],
       announcementBar: {
         id: 'document_under_construction',
         content: 'DOCUMENTS ARE UNDER CONSTRUCTION...',
