@@ -49,6 +49,7 @@ const config = {
       },
     ],
   ],
+  // themes: ['@docusaurus/theme-search-algolia'],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -139,6 +140,30 @@ const config = {
       i18n: {
         defaultLocale: 'en',
         locales: ['en', 'vi'],
+      },
+      algolia: {
+        // yarn run swizzle @docusaurus/theme-search-algolia SearchBar
+        // The application ID provided by Algolia
+        appId: 'BKI2W1K9UQ',
+
+        // Public API key: it is safe to commit it
+        apiKey: '004ec47984c5eec499fbf388310aa56b',
+
+        indexName: 'Notes',
+
+        // Optional: see doc section below
+        contextualSearch: true,
+
+        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        // externalUrlRegex: 'external\\.com|domain\\.com',
+
+        // Optional: Algolia search parameters
+        searchParameters: {},
+
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
+
+        //... other Algolia params
       },
     }),
 };
