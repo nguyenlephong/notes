@@ -147,7 +147,7 @@ const config = {
         appId: 'BKI2W1K9UQ',
 
         // Public API key: it is safe to commit it
-        apiKey: '004ec47984c5eec499fbf388310aa56b',
+        apiKey: 'c8990f5c825acf8a1dd25e9e423536f2',
 
         indexName: 'Notes',
 

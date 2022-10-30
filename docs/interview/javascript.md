@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Javascript
@@ -27,3 +27,4 @@ sidebar_position: 2
 - DOM là gì
 - decodeURL and encodeURL
 - How can JavaScript codes be hidden from old browsers that do not support JavaScript ? <!--  // -->
+- https://www.thatjsdude.com/interview/js2.html

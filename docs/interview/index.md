@@ -16,7 +16,7 @@ These documents are highly unstructured and aren't really well-formed. For any f
 - DB Stack: **SQL Server, My SQL**
 
 ## Scope
-### Javascript
+### [Javascript](./javascript)
 - ES6 feature
 - Hoisting
 - Closure
@@ -57,7 +57,7 @@ These documents are highly unstructured and aren't really well-formed. For any f
 - Callback
 - 
 ### Java
-### Data Structure
+### [Data Structure](./data-structure)
 - Set/
 - Map/
 - HashMap/
