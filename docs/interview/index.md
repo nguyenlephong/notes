@@ -1,5 +1,11 @@
 ---
 sidebar_position: 0
+sidebar_label: List Of Topics
+sidebar_class_name: green
+title: Prepare Question for Interview - Nguyễn Lê Phong
+description: Top question prepare to interview for Software Engineer
+image: https://cdn.jsdelivr.net/gh/nguyenlephong/dom-pub/shared/images/cv/images/dom.png
+keywords: [Full-stack Software Engineer, Senior Software Engineer, Software Engineer, JS Framework, UI Framework, Frontend Developer, Nguyễn Lê Phong]
 ---
 
 
@@ -65,13 +71,20 @@ These documents are highly unstructured and aren't really well-formed. For any f
 - List/
 - Linked List/
 - Array/Tree/
+- Dictionary
+- Table
 
 
 ### Algorithm
 - Search
 - Sort
-- 
-### Network
+- Algorithm complexity
+
+### Design Pattern
+- Examples
+
+
+### [Network](./network)
 ### Testing
 - BDD
 - End to end testing
@@ -88,6 +101,11 @@ These documents are highly unstructured and aren't really well-formed. For any f
 - Firebase
 - Webpack config
 
+### Questions
+1. Process and Thread
+2. Software Model
+3. Software architecture
+4. Software microservice
 
 ### Frameworks
 #### 1. UI Framework

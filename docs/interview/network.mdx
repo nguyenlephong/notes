@@ -50,6 +50,8 @@ import TabItem from '@theme/TabItem';
 
 ![OSI Model](../../static/interview/osi.jpg)
 
+## Protocol
+
 ## HTTP & HTTPS
 :::info Hyper Text Transfer Protocol (Secure)
 => Là một giao thức truyền tải siêu văn bản
@@ -97,7 +99,7 @@ Thông thường mỗi HTTP Request sẽ sử dụng một kết nối TCP (TCP 
 5. Client đóng kết nối TCP.
 6. Nếu client cần thêm các object từ server, mỗi object sẽ cần thực hiện lại các bước 1 đến 5.
 :::
-![HTTP Request](../../static/interview/http-requests.png) 
+![HTTP Request](../../static/interview/http-requests.png)
 
 Ở đây chúng ta cần lưu ý rằng, bản chất TCP Connection khi được thiết lập sẽ cần 3 bước được biết đến với tên gọi: TCP 3-Way Handshake Process. Tức là giữa client và server cần trao đổi (gởi và nhận) 3 messages trước khi kết nối được thiết lập. Tương tự khi kết nối đóng lại cũng cần thực hiện lại quy trình 3 bước này.
 
