@@ -84,7 +84,35 @@ The different functional components in JavaScript are
 ### What are Higher-Order components?
 ### What do you know about controlled and uncontrolled components?
 ### What are Pure Components?
+### What is code-splitting?
+
+:::tip
+### What is code-splitting?
+Bundling is great, but as your app grows, your bundle will grow too. Especially if you are including large third-party libraries. You need to keep an eye on the code you are including in your bundle so that you don’t accidentally make it so large that your app takes a long time to load.
+
+To avoid winding up with a large bundle, it’s good to get ahead of the problem and start “splitting” your bundle. Code-Splitting is a feature supported by bundlers like Webpack, Rollup and Browserify (via factor-bundle) which can create multiple bundles that can be dynamically loaded at runtime.
+
+Code-splitting your app can help you “lazy-load” just the things that are currently needed by the user, which can dramatically improve the performance of your app. While you haven’t reduced the overall amount of code in your app, you’ve avoided loading code that the user may never need, and reduced the amount of code needed during the initial load.
+
+* Refs: https://reactjs.org/docs/code-splitting.html
+:::
+
 ### What is dynamic import?
+
+:::tip
+### What is dynamic import?
+React.lazy takes a function that must call a dynamic import(). This must return a Promise which resolves to a module with a default export containing a React component.
+
+The lazy component should then be rendered inside a Suspense component, which allows us to show some fallback content (such as a loading indicator) while we’re waiting for the lazy component to load.
+
+
+#### Avoid fallback
+Any component may suspend as a result of rendering, even components that were already shown to the user. In order for screen content to always be consistent, if an already shown component suspends, React has to hide its tree up to the closest `<Suspense>` boundary. However, from the user’s perspective, this can be disorienting.
+
+However, sometimes this user experience is not desirable. In particular, it is sometimes better to show the “old” UI while the new UI is being prepared. ==> Using startTransition to fixed it
+
+* Refs: https://reactjs.org/docs/code-splitting.html
+:::
 
 ## UI Framework Interview Question
 ### Bạn biết những preprocessor nào?
