@@ -11,15 +11,22 @@ keywords: [Full-stack Software Engineer, Senior Software Engineer, Software Engi
 # PrimeData VN
 ## Thông tin cơ bản
 
-### Logo
+* Logo
+
 ![PrimeData VN Logo](https://primedata.ai/wp-content/uploads/2021/06/Logo-Default.png)
 
-### Website
-- [Home Page](https://primedata.ai)
-- [GitHub Organization](https://github.com/primedata-ai)
-- [Developer Docs](https://developer.primedata.ai/docs/overview)
+* Ngày thành lập: 02/10/2020
 
-### CEO
+* Website
+  - [Home Page](https://primedata.ai)
+  - [GitHub Organization](https://github.com/primedata-ai)
+  - [Developer Docs](https://developer.primedata.ai/docs/overview)
+
+* Team size: 37 thành viên (08/01/2023)
+
+
+* CEO
+
 :::info Anh Nguyễn Hải Triều - Charles Trieu Nguyen
 Sáng lập viên & CEO của PrimeData.ai – một trong những nền tảng CDP & trải nghiệm khách hàng đa kênh đầu tiên từ Việt Nam, trụ sở Singapore.
 
@@ -31,12 +38,42 @@ Mr. Triều Nguyễn vừa có bằng Thạc sĩ Quản trị Kinh doanh của �
 :::
 
 ## Lĩnh vực hoạt động của công ty là gì? Công ty làm về cái gì?
+- Công ty PrimeData là một công ty Product hoạt động ở Việt Nam, có trụ sở ở Singapore, đang phát triển một sản phẩm phục vụ cho người làm Marketing, ngành marketing. Giúp tăng doanh thu cho doanh nghiệp.
+- Sản phẩm công ty là một giải pháp hoàn chỉnh từ CDI đến CDP đến CDXP đến cá nhân hóa người dùng.
+  
+:::info Tính năng
+* Chân dung & phân khúc khách hàng 360
+* Cung cấp trải nghiệm cá nhân hóa đa kênh
+* Nền tảng AI-powered Customer Data & Personalized Marketing toàn diện.
+* Xây dựng báo cáo chi tiết & trực quan
+![PrimeData VN Features](https://primedata.ai/wp-content/uploads/2021/09/Mockups.png)
+:::
+
 
 ## Công ty giải quyết vấn đề gì?
-## Có lợi ích gì cho cộng đồng?
-## Team size? Ngày thành lập? CEO?
-## Công ty này là công ty Quốc tế hay Việt Nam?
+- Dữ liệu khách hàng rời rạc => các kênh và công cụ bị phân mảnh
+- Duy trì và gia tăng LTV => Hoạt động marketing mơ hồ từ những điều không chắc chắn
+- Hiệu suất trên đa kênh => Khó khăn trong việc theo dõi và tối ưu hóa
+
 ## Các hoạt động gần đây, đáng chú ý của doanh nghiệp?
-## Thị trường mục tiêu?
+- Gọi vốn thành công vòng 1
+- Ký kết hợp đồng partner với CleverTap
+- Tiếp cận nhiều client mới
+
 ## Đối thủ cạnh tranh hiện tại?
+### Trong nước
+- [AntSomi](https://www.antsomi.com/)
+- [LeoCDP](LeoCDP.com) - [Demo](https://trieu.github.io/leo-cdp-free-edition/)
+- CleverTap
+
+### Ngoài nước
+- [Insider](www.useinsider.com)
+- [Segment](www.segment.com)
+- [Treasure Data](www.treasuredata.com)
+- [Blueshift](www.blueshift.com)
+- [Lytics](www.lytics.com)
+- [Salesforce](www.salesforce.com)
+
 ## Những khó khăn mà có thể doanh nghiệp gặp phải?
+- CDP đang trên đà phát triển mạnh ở Việt Nam => vậy nên doanh nghiệp đang là khởi nghiệp thì đòi hỏi phải phát triển nhanh chóng vượt bật
+- 
