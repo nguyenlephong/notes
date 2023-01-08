@@ -56,15 +56,14 @@ Mr. Triều Nguyễn vừa có bằng Thạc sĩ Quản trị Kinh doanh của �
 - Hiệu suất trên đa kênh => Khó khăn trong việc theo dõi và tối ưu hóa
 
 ## Các hoạt động gần đây, đáng chú ý của doanh nghiệp?
-- Gọi vốn thành công vòng 1
-- Ký kết hợp đồng partner với CleverTap
+- Gọi vốn thành công vòng 1 - [link](https://forbes.vn/primedata-nhan-von-tu-quy-viisa-va-hop-tac-chien-luoc-voi-clevertap/)
+- Ký kết hợp đồng partner với CleverTap - [link](https://startupwheel.vn/vi/prime-data-nhan-von-tu-viisa/)
 - Tiếp cận nhiều client mới
 
 ## Đối thủ cạnh tranh hiện tại?
 ### Trong nước
 - [AntSomi](https://www.antsomi.com/)
 - [LeoCDP](LeoCDP.com) - [Demo](https://trieu.github.io/leo-cdp-free-edition/)
-- CleverTap
 
 ### Ngoài nước
 - [Insider](www.useinsider.com)
@@ -73,7 +72,8 @@ Mr. Triều Nguyễn vừa có bằng Thạc sĩ Quản trị Kinh doanh của �
 - [Blueshift](www.blueshift.com)
 - [Lytics](www.lytics.com)
 - [Salesforce](www.salesforce.com)
+- [CleverTap](https://clevertap.com/)
+
 
 ## Những khó khăn mà có thể doanh nghiệp gặp phải?
 - CDP đang trên đà phát triển mạnh ở Việt Nam => vậy nên doanh nghiệp đang là khởi nghiệp thì đòi hỏi phải phát triển nhanh chóng vượt bật
-- 
