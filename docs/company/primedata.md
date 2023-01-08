@@ -63,15 +63,15 @@ Mr. Triều Nguyễn vừa có bằng Thạc sĩ Quản trị Kinh doanh của �
 ## Đối thủ cạnh tranh hiện tại?
 ### Trong nước
 - [AntSomi](https://www.antsomi.com/)
-- [LeoCDP](LeoCDP.com) - [Demo](https://trieu.github.io/leo-cdp-free-edition/)
+- [LeoCDP](https://LeoCDP.com) - [Demo](https://trieu.github.io/leo-cdp-free-edition/)
 
 ### Ngoài nước
-- [Insider](www.useinsider.com)
-- [Segment](www.segment.com)
-- [Treasure Data](www.treasuredata.com)
-- [Blueshift](www.blueshift.com)
-- [Lytics](www.lytics.com)
-- [Salesforce](www.salesforce.com)
+- [Insider](https://www.useinsider.com)
+- [Segment](https://www.segment.com)
+- [Treasure Data](https://www.treasuredata.com)
+- [Blueshift](https://www.blueshift.com)
+- [Lytics](https://www.lytics.com)
+- [Salesforce](https://www.salesforce.com)
 - [CleverTap](https://clevertap.com/)
 
 
