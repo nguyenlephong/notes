@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>Nguyễn Lê Phong - Notes</ShortName>
-  <Description>Search Nguyễn Lê Phong - Notes</Description>
+  <ShortName>Software Engineer - Notes</ShortName>
+  <Description>Search Software Engineer - Notes</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="16" height="16" type="image/x-icon">https://nguyenlephong.github.io/notes/img/dom.png</Image>
   <Url type="text/html" method="get" template="https://nguyenlephong.github.io/notes/search?q={searchTerms}"/>
