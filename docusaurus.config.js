@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Nguyễn Lê Phong - Notes',
+  title: 'Software Engineer - Notes',
   tagline: 'A passionate individual who always thrives to work on end-to-end products which develop sustainable and scalable social and technical systems to create impact.',
   url: 'https://nguyenlephong.github.io',
   baseUrl: '/notes/',
