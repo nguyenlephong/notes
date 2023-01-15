@@ -64,6 +64,8 @@ Mr. Triều Nguyễn vừa có bằng Thạc sĩ Quản trị Kinh doanh của �
 ### Trong nước
 - [AntSomi](https://www.antsomi.com/)
 - [LeoCDP](https://LeoCDP.com) - [Demo](https://trieu.github.io/leo-cdp-free-edition/)
+- [PangoCDP](https://bytetech.io/pango-cdp/) - [Bytetech](https://bytetech.io/)
+![PangoCDP Model](https://bytetech.io/wp-content/uploads/2022/01/ByteTech_CDP_Model.svg)
 
 ### Ngoài nước
 - [Insider](https://www.useinsider.com)
