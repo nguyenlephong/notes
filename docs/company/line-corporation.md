@@ -26,6 +26,8 @@ keywords: [Full-stack Software Engineer, Senior Software Engineer, Software Engi
 
 :::info
 LINE có rất nhiều sản phẩm trong tất cả các lĩnh vực. Truy cập vào menu service của trang [Services](https://line.me/en/) để nhìn thấy toàn bộ sản phẩm của LINE.
+LINE is a life platform with a monthly average of 200 million users.
+LINE offers a wide range of services including messenger, commerce, game and fintech.
 :::
 
 # LINE TECHNOLOGY VIETNAM CO., LTD
