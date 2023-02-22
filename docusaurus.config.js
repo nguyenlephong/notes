@@ -36,6 +36,7 @@ const config = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+          docSearchCss: require.resolve('./src/css/docsearch.css'),
         },
       }),
     ],
@@ -147,12 +148,12 @@ const config = {
       algolia: {
         // yarn run swizzle @docusaurus/theme-search-algolia SearchBar
         // The application ID provided by Algolia
-        appId: 'BKI2W1K9UQ',
+        appId: 'VDTYO64TMC',
 
         // Public API key: it is safe to commit it
-        apiKey: 'c8990f5c825acf8a1dd25e9e423536f2',
+        apiKey: 'd8c2f0d1cd99e7ee8191f5e857389133',
 
-        indexName: 'Notes',
+        indexName: 'nguyenlephongio',
 
         // Optional: see doc section below
         contextualSearch: true,

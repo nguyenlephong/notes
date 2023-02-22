@@ -47,6 +47,15 @@ export default function Home(): JSX.Element {
             posthog.init('phc_LpZ2tDzflwbSRhzgx5vYOfe1AXvqqdXVDGYuGTcIsHh',{api_host:'https://app.posthog.com'})
           `}
         </script>
+        <script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script>
+        {/*<script type="text/javascript">*/}
+        {/*  {`docsearch({*/}
+        {/*    appId: "VDTYO64TMC",*/}
+        {/*    apiKey: "d8c2f0d1cd99e7ee8191f5e857389133",*/}
+        {/*    indexName: "nguyenlephongio",*/}
+        {/*    debug: false // Set debug to true if you want to inspect the modal});`}*/}
+
+        {/*</script>*/}
       </Head>
       <Layout
         title={`Hello from ${siteConfig.title}`}
