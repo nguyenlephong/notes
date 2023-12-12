@@ -28,6 +28,6 @@ These documents are highly unstructured and aren't really well-formed. For any f
 :::
 
 # List of company
-1. [PrimeData VN](/docs/company/primedata)
-2. [Splus Software JSC](/docs/company/splus-software)
-2. [VNG Corporation](/docs/company/vng-corporation)
+1. [PrimeData VN](/docs/_company/primedata)
+2. [Splus Software JSC](/docs/_company/splus-software)
+2. [VNG Corporation](/docs/_company/vng-corporation)
